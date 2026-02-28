@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.bin
+*.o
+*.a
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.xcodeproj/
+xcuserdata/
+
+# macOS
+.DS_Store
