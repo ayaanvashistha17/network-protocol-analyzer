@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdissector_core.a CMakeFiles/dissector_core.dir/dissector/dissector_core.cpp.o
+/usr/bin/ranlib libdissector_core.a

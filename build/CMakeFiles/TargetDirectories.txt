@@ -1,0 +1,13 @@
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/protocol.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/device_sim.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/dissector_core.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/packet_analyzer.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/test_protocol.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/test_dissector.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/test.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/edit_cache.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/rebuild_cache.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/list_install_components.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/install.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/install/local.dir
+/Users/ayaanvashistha/Desktop/ALL desktop work/C++ project /network-protocol-analyzer/build/CMakeFiles/install/strip.dir

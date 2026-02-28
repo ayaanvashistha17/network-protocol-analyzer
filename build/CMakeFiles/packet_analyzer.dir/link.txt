@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/packet_analyzer.dir/dissector/packet_analyzer.cpp.o -o packet_analyzer  libdissector_core.a

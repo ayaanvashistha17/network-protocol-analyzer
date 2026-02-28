@@ -1,0 +1,22 @@
+name: CI
+
+on: [push, pull_request]
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install dependencies
+        run: sudo apt-get update && sudo apt-get install -y cmake g++
+      - name: Configure CMake
+        run: cmake -B build
+      - name: Build
+        run: cmake --build build
+      - name: Run tests
+        run: |
+          ./build/tests/test_protocol
+          ./build/tests/test_dissector
+      - name: Run integration test
+        run: |
+          python3 automation/capture_analyze.py
