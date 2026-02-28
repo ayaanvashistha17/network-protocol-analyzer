@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/ayaanvashistha17/network-protocol-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/ayaanvashistha17/network-protocol-analyzer/actions/workflows/ci.yml)
 
-A C/C++ project demonstrating embedded systems concepts: custom protocol simulation, packet dissection, unit testing, and CI/CD automation. Designed to showcase skills relevant to firmware development roles (e.g., Johnson Controls internship).
+A C/C++ project demonstrating embedded systems concepts: custom protocol simulation, packet dissection, unit testing, and CI/CD automation. Designed to showcase skills relevant to firmware development roles.
 
 ## Features
 
